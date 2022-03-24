@@ -3,7 +3,7 @@
 Hello, my name is Felipe Ogata, I have a degree in economics and law, but I have a huge passion for technology. In recent years I have worked as a Developer on several projects, Im also have a position at JusBrasil as a dev-full-stack (Node, js and Python).
 
 - 🔭 I’m currently working on ProjetoSerial(Full web application) and Full-Dev-Stack; 
-- 🌱 I’m currently learning Node(js) and Python
+- 🌱 I’m currently learning Node(js) and Python (I'm a student from Digital House + Udemy + Rocketseat)
 - 👯 I’m looking to collaborate on a website project (SPA)
 - 🤔 I’m looking for help with Golang. 
 - 💬 I'm Into Philosophy, games and cinema.
