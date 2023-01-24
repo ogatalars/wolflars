@@ -1,16 +1,16 @@
 ### Hello World, it's me, Ogata!
 
-Hello, my name is Felipe Ogata, I have a degree in economics and law, but I have a huge passion for technology. In recent years I have worked as a Developer on several projects, Im also have a position at JusBrasil as a dev-full-stack (Node, js and Python).
+Hello, my name is Felipe Ogata, I have a degree in economics and law, but I have a huge passion for technology. In recent years I have worked as a Developer on several projects, I have a position at JusBrasil as a dev-full-stack (React and Python).
 
 - 🔭 I’m currently working at Jusbrasil ; 
-- 🌱 I’m currently learning Node(js) and Python (I'm a student from Digital House + Udemy + Rocketseat)
+- 🌱 I’m currently learning react (getting better
 - 👯 I’m looking to collaborate on a website project (SPA)
 - 🤔 I’m looking for help with Golang. 
 - 💬 I'm Into Philosophy, games and cinema.
 - 💬 Ask me about JS/Node.
 - 📫 How to reach me: here, also here*3 (just kidding, you can found me on @ogatalars and ogataogara@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a big fan of the souls series
+- ⚡ Fun fact: I'm a big fan of Dota2 
 
 Some Stats:
 
