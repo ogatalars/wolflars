@@ -8,9 +8,9 @@ Hello, my name is Felipe Ogata, I have a degree in economics and law, but I have
 - 🤔 I’m looking for help with Golang. 
 - 💬 I'm Into Philosophy, games and cinema.
 - 💬 Ask me about JS/Node.
-- 📫 How to reach me: here, also here*3 (just kidding, you can found me on @ogatalars and ogataogara@gmail.com)
+- 📫 How to reach me:  you can found me on my e-mail ogataogara@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play piano for 30 minutes every single day.
+- ⚡ Fun fact: I play piano for 30 minutes every single day and I love ARPGs games like Poe, Diablo, etc;
 
 Some Stats:
 
